@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: AndrewBWillPrevail@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Aliens exist.
--->
+
+
+-->MIT licensed
+
+Copyright (C) 2011-2021 Hakim El Hattab, https://hakim.se
 
 
                     GNU GENERAL PUBLIC LICENSE
